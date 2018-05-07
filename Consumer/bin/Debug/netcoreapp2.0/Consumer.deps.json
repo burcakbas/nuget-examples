@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "4dd72865714050a828bfb43394093c1a373f6142"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Consumer/1.0.0": {
+        "dependencies": {
+          "Core.Mail": "1.0.2"
+        },
+        "runtime": {
+          "Consumer.dll": {}
+        }
+      },
+      "Core.Mail/1.0.2": {
+        "dependencies": {
+          "FluentEmail.Smtp": "2.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Core.Logging.dll": {},
+          "lib/netstandard2.0/Core.Mail.dll": {},
+          "lib/netstandard2.0/Core.SMTP.dll": {}
+        }
+      },
+      "FluentEmail.Core/2.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentEmail.Core.dll": {}
+        }
+      },
+      "FluentEmail.Smtp/2.3.0": {
+        "dependencies": {
+          "FluentEmail.Core": "2.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentEmail.Smtp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consumer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core.Mail/1.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1IeANv09VUSj8QR0i1z1qWMZcBxvqAPrsmjpPTbbE5IoAvSwKHfd6dteINcy1L187OGnaCg29rJv8Mg+t2oM4g==",
+      "path": "core.mail/1.0.2",
+      "hashPath": "core.mail.1.0.2.nupkg.sha512"
+    },
+    "FluentEmail.Core/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3jA2xuu2aCAjqAJftCErTFl49amgGsBNppObGy3cc4QzniYZwiDQ5Xkl2K8EvzGU+xNYfo1ktfAqbm/qdcdKBg==",
+      "path": "fluentemail.core/2.3.0",
+      "hashPath": "fluentemail.core.2.3.0.nupkg.sha512"
+    },
+    "FluentEmail.Smtp/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dav/26tzs300X7YymF51ILJkX0wE77E6qBaijHshTSe0Gq9uiZnexcEy7d1ZSYQSFAvbrq7V8y1m/aCbPk56QA==",
+      "path": "fluentemail.smtp/2.3.0",
+      "hashPath": "fluentemail.smtp.2.3.0.nupkg.sha512"
+    }
+  }
+}

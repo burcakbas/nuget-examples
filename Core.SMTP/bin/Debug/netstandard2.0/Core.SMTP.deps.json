@@ -1,0 +1,86 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "39a47291ff4dcaa86d05c68354801988981d83c9"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "Core.SMTP/1.0.0": {
+        "dependencies": {
+          "Core.Logging": "1.0.0",
+          "FluentEmail.Smtp": "2.3.0",
+          "NETStandard.Library": "2.0.1"
+        },
+        "runtime": {
+          "Core.SMTP.dll": {}
+        }
+      },
+      "FluentEmail.Core/2.3.0": {
+        "runtime": {
+          "lib/netstandard2.0/FluentEmail.Core.dll": {}
+        }
+      },
+      "FluentEmail.Smtp/2.3.0": {
+        "dependencies": {
+          "FluentEmail.Core": "2.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/FluentEmail.Smtp.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.1": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Core.Logging/1.0.0": {
+        "runtime": {
+          "Core.Logging.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core.SMTP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentEmail.Core/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3jA2xuu2aCAjqAJftCErTFl49amgGsBNppObGy3cc4QzniYZwiDQ5Xkl2K8EvzGU+xNYfo1ktfAqbm/qdcdKBg==",
+      "path": "fluentemail.core/2.3.0",
+      "hashPath": "fluentemail.core.2.3.0.nupkg.sha512"
+    },
+    "FluentEmail.Smtp/2.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dav/26tzs300X7YymF51ILJkX0wE77E6qBaijHshTSe0Gq9uiZnexcEy7d1ZSYQSFAvbrq7V8y1m/aCbPk56QA==",
+      "path": "fluentemail.smtp/2.3.0",
+      "hashPath": "fluentemail.smtp.2.3.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+      "path": "netstandard.library/2.0.1",
+      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+    },
+    "Core.Logging/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

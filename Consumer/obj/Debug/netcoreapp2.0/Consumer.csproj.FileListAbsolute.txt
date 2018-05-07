@@ -1,0 +1,11 @@
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\bin\Debug\netcoreapp2.0\Consumer.deps.json
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.json
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\bin\Debug\netcoreapp2.0\Consumer.runtimeconfig.dev.json
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\bin\Debug\netcoreapp2.0\Consumer.dll
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\bin\Debug\netcoreapp2.0\Consumer.pdb
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\obj\Debug\netcoreapp2.0\Consumer.csprojResolveAssemblyReference.cache
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\obj\Debug\netcoreapp2.0\Consumer.csproj.CoreCompileInputs.cache
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfoInputs.cache
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\obj\Debug\netcoreapp2.0\Consumer.AssemblyInfo.cs
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\obj\Debug\netcoreapp2.0\Consumer.dll
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Consumer\obj\Debug\netcoreapp2.0\Consumer.pdb

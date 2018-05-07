@@ -1,0 +1,12 @@
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\bin\Debug\netstandard2.0\Core.SMTP.deps.json
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\bin\Debug\netstandard2.0\Core.SMTP.dll
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\bin\Debug\netstandard2.0\Core.SMTP.pdb
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\bin\Debug\netstandard2.0\Core.Logging.dll
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\bin\Debug\netstandard2.0\Core.Logging.pdb
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\obj\Debug\netstandard2.0\Core.SMTP.csprojResolveAssemblyReference.cache
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\obj\Debug\netstandard2.0\Core.SMTP.csproj.CoreCompileInputs.cache
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\obj\Debug\netstandard2.0\Core.SMTP.AssemblyInfoInputs.cache
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\obj\Debug\netstandard2.0\Core.SMTP.AssemblyInfo.cs
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\obj\Debug\netstandard2.0\Core.SMTP.csproj.CopyComplete
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\obj\Debug\netstandard2.0\Core.SMTP.dll
+c:\users\02484454\source\repos\NuGet.Example.Netcore\Core.SMTP\obj\Debug\netstandard2.0\Core.SMTP.pdb

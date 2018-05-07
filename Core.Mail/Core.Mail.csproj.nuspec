@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Core.Mail</id>
+    <version>1.0.2</version>
+    <title>Core.Mail</title>
+    <authors>burc.akbas</authors>
+    <owners>burc.akbas</owners>
+    <licenseUrl>http://www.burcakbas.com/</licenseUrl>
+    <projectUrl>http://www.burcakbas.com/</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Core.Mail</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <dependencies>
+      <group targetFramework="netstandard2.0">
+        <dependency id="FluentEmail.Smtp" version="2.3.0" />
+      </group>
+    </dependencies>
+    <references>
+      <group targetFramework="netstandard2.0">
+        <reference file="Core.Mail.dll" />
+        <reference file="Core.SMTP.dll" />
+        <reference file="Core.Logging.dll" />
+      </group>
+    </references>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="bin\Debug\**\*.dll" target="lib" />
+    <file src="bin\Debug\**\*.pdb" target="lib" />
+  </files>
+</package>
